@@ -1,0 +1,10 @@
+body {
+    background-color: darkred;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: antiquewhite;
+    text-align: center;
+}
