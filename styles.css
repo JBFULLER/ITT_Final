@@ -8,3 +8,7 @@ p {
     color: antiquewhite;
     text-align: center;
 }
+img {
+    height: 50%;
+    width: 50%;
+}
